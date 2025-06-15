@@ -14,4 +14,4 @@ Representar el sistema como un único proceso.
 Identificar todos los actores externos (usuarios, sistemas, instituciones) que interactúan con él.
 Mostrar el flujo de entrada y salida de información entre los actores y el sistema.
 
-(https://lucid.app/publicSegments/view/dc8d6262-c047-4c83-a3f2-ff2a893dba87/image.png)
+![UML-class case](https://lucid.app/publicSegments/view/dc8d6262-c047-4c83-a3f2-ff2a893dba87/image.png)
